@@ -1,0 +1,19 @@
+a.mail-icon{
+    background-image: url("../images/mail-200.png");
+}
+
+a.linkedin-icon{
+    background-image: url("../images/linked-in-200.png");
+}
+
+a.github-icon{
+    background-image: url("../images/github-120.png");
+}
+
+a.codepen-icon{
+    background-image: url("../images/codepen-64.png");
+}
+
+a.landing-page-icon{
+    background-image: url("../images/flower-logo-line-200.png");
+}
