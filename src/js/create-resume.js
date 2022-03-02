@@ -43,11 +43,11 @@ function addIcon(iconId, linkUrl, imageUrl) {
 }
 
 export function makeIconsBar(){
-    addIcon('mail-icon', 'mailto:info@justinlmartin.com', '../src/images/mail-200.png')
-    addIcon('linkedin-icon', 'https://www.linkedin.com/in/justinleemartin', '../src/images/linked-in-200.png')
-    addIcon('github-icon', 'https://github.com/jmartin432', '../src/images/github-120.png')
-    addIcon('codepen-icon', 'https://codepen.io/jmartin432/', '../src/images/codepen-64.png')
-    addIcon('landing-page-icon', 'https://justinlmartin.com', '../src/images/flower-logo-line-200.png')
+    addIcon('mail-icon', 'mailto:info@justinlmartin.com', '../images/mail-200.png')
+    addIcon('linkedin-icon', 'https://www.linkedin.com/in/justinleemartin', '../images/linked-in-200.png')
+    addIcon('github-icon', 'https://github.com/jmartin432', '../images/github-120.png')
+    addIcon('codepen-icon', 'https://codepen.io/jmartin432/', '../images/codepen-64.png')
+    addIcon('landing-page-icon', 'https://justinlmartin.com', '../images/flower-logo-line-200.png')
 }
 
 
