@@ -1,3 +1,23 @@
+img.icon-image{
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+}
+
+div.links-bar{
+    margin: auto;
+    justify-content: center;
+}
+
+a.social{
+    display: inline-block;
+    background-size: 30px 30px;
+    width: 30px;
+    height: 30px;
+    margin: 3px 10px 3px 10px;
+    transition: .3s;
+}
+
 a.mail-icon{
     background-image: url("../images/mail-200.png");
 }

@@ -1,0 +1,66 @@
+{
+  "resume": {
+    "contact-info": {
+      "name": "Justin L. Martin",
+      "email": "info@justinlmartin.com",
+      "phone": "+15035005989",
+      "address": {
+        "street": "",
+        "city": "Portland",
+        "state": "Oregon",
+        "zip": ""
+      }
+    },
+    "work-history": [
+      {
+        "name": "",
+        "role": "",
+        "location": {
+          "city": "",
+          "state": ""
+        },
+        "dates": {
+          "start": "",
+          "end": ""
+        },
+        "notes": []
+      }
+
+    ],
+    "education": [
+      {
+        "name": "",
+        "degree": "",
+        "location": {
+          "city": "",
+          "state": ""
+        },
+        "dates": {
+          "start": "",
+          "end": ""
+        },
+        "notes": []
+      }
+    ],
+    "volunteer-history": [],
+    "technical-skills": [],
+    "links": [
+      {
+        "key": "Resume",
+        "value": "https://resume.justinlmartin.com"
+      },
+      {
+        "key": "GitHub",
+        "value": "https://github.com/jmartin432"
+      },
+      {
+        "key": "LinkedIn",
+        "value": ""
+      },
+      {
+        "key": "AWS Certified Developer Certification",
+        "value": ""
+      }
+    ]
+  }
+}
